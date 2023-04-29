@@ -195,6 +195,10 @@ print(tarantula_scores[:30])
 print(ochiai_scores[:30])
 ```
 
+See lecture video 21 from ~13 minutes to ~57 minutes for more information on this code
+Link to Lecture: https://stlawu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=325f4062-a80c-4796-8672-afdb0130793f
+
+
 ## Supplementary Material
 
 Below is the txt file from Kevin's Website on how to download an updated Ruby and helpful git commands
